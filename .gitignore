@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/devfishi.mvc/.vs/devfishi.mvc/v16
+/devfishi.mvc/devfishi.mvc/obj

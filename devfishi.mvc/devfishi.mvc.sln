@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devfishi.mvc", "devfishi.mvc\devfishi.mvc.csproj", "{9DC68DCB-6D18-4E87-9982-D1BAE568D4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC68DCB-6D18-4E87-9982-D1BAE568D4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC68DCB-6D18-4E87-9982-D1BAE568D4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC68DCB-6D18-4E87-9982-D1BAE568D4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC68DCB-6D18-4E87-9982-D1BAE568D4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2E58FB-418D-42EC-A784-327E4DF4F09A}
+	EndGlobalSection
+EndGlobal
